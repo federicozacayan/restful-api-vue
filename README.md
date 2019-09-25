@@ -6,10 +6,10 @@ This is a basic Hello-Wolrd application.
 
 - A browser.
 - Internet access.
+- Git installed.
 
 ## Set up
-
-n/a
+It is assumed it is used linux environment.
 
 ### Prepare
 
